@@ -8,14 +8,9 @@ stow -D src
 # - delete symlinks
 ```
 
-## Dependencies
+## Dependencies (Archlinux)
 ```
-wofi
-foot
-ttf-fira-code
-grim
-slurp
-wl-clipboard
+sudo pacman -S hyprland hyprshot hyprpicker wofi foot ttf-fira-code wl-clipboard fuzzel
 ```
 
 ## Wallpapers 
