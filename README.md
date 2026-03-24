@@ -10,7 +10,11 @@ stow -D src
 
 ## Dependencies (Archlinux)
 ```
-sudo pacman -S hyprland hyprshot hyprpicker wofi foot ttf-fira-code wl-clipboard fuzzel
+sudo pacman -S \
+    hyprland hyprshot hyprpicker \
+    foot ttf-fira-code \
+    wl-clip-persist fuzzel \
+    nemo viewnoir
 ```
 
 ## Wallpapers 
